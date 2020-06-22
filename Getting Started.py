@@ -1,0 +1,6 @@
+#print("   /|")
+#print("  / |")
+#print(" /  |")
+#print("/___|")
+print("_  /\  |)  o  o")
+print("| /  \ |\  |  |_")
